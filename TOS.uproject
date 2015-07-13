@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.8",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "TOS",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"Description": ""
 }
